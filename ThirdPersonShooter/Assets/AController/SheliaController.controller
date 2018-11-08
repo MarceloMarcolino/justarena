@@ -5,7 +5,7 @@ AnimatorController:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: UmbabaController
+  m_Name: SheliaController
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Speed
@@ -91,7 +91,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400012, guid: 4a7a9bf910e93974c87207f4da2fae90, type: 3}
+    m_Motion: {fileID: 7400016, guid: 81bd24735afd0a44da542c1173621e2d, type: 3}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -99,7 +99,7 @@ BlendTree:
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400006, guid: 4a7a9bf910e93974c87207f4da2fae90, type: 3}
+    m_Motion: {fileID: 7400004, guid: 81bd24735afd0a44da542c1173621e2d, type: 3}
     m_Threshold: 0.5
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
